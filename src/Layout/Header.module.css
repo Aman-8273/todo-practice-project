@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  background-color: whitesmoke;
+  height: 40px;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+}

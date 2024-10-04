@@ -1,0 +1,30 @@
+.homepage {
+  color: black;
+  font-size: 4.2rem;
+  margin-bottom: 2rem;
+}
+
+/* .paragraph {
+  text-align: center;
+  font-size: 1.4rem;
+} */
+
+.heading {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 1.2rem;
+}
+
+.googleLogin {
+  margin: 2rem 2rem 0 0;
+  width: 20rem;
+  background-color: whitesmoke;
+  padding: 3rem;
+  border-radius: 10px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.DesContsiner {
+  margin-top: 7rem;
+  width: 45rem;
+}
